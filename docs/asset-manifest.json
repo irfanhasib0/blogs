@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/ai-blog/static/css/main.073c9b0a.css",
-    "main.js": "/ai-blog/static/js/main.a4596fdf.js",
+    "main.js": "/ai-blog/static/js/main.8919264e.js",
     "static/js/787.ee1df0a2.chunk.js": "/ai-blog/static/js/787.ee1df0a2.chunk.js",
+    "static/media/OD-R-CNN.svg": "/ai-blog/static/media/OD-R-CNN.bb744cd0e20e60961dd411c4f3387eff.svg",
     "static/media/logo.svg": "/ai-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ai-blog/index.html",
     "main.073c9b0a.css.map": "/ai-blog/static/css/main.073c9b0a.css.map",
-    "main.a4596fdf.js.map": "/ai-blog/static/js/main.a4596fdf.js.map",
+    "main.8919264e.js.map": "/ai-blog/static/js/main.8919264e.js.map",
     "787.ee1df0a2.chunk.js.map": "/ai-blog/static/js/787.ee1df0a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a4596fdf.js"
+    "static/js/main.8919264e.js"
   ]
 }
