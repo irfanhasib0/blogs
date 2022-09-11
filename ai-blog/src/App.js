@@ -71,7 +71,7 @@ function App() {
   </Col>
   <Col xs={9} style={{marginLeft : '0px'}}>
   <Header/>
-  <iframe src={"/rcnn_1.svg"} title={"description"} width="100%" height="800px"></iframe>
+  <iframe src={"/ai-blog/rcnn_1.svg"} title={"description"} width="100%" height="800px"></iframe>
   {''}
   <footer style={{'position':  'absolute', 'height' : '60px'}}>
   <AiOutlineMail/> {'irfanhasib.me@gmail.com'}
