@@ -1,6 +1,6 @@
 #!/bin/bash
 npm run build
-cp -r build ../docs
+cp -r build/* ../docs/
 cd .. 
 git add .
 git commit -m "Saving Update"
