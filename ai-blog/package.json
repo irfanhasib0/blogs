@@ -2,6 +2,7 @@
   "name": "ai-blog",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://irfanhasib0.github.io/ai-blog/",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "@testing-library/jest-dom": "^5.16.5",
