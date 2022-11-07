@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "irfanhasib0/blogs",
+  "name": "irfanhasib blogs on ai,computer vision, object detection (e.g Faster RCNN, YOLO, SSD)",
   "icons": [
     {
       "src": "favicon.ico",
