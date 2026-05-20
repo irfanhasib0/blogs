@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>irfanhasib0.github.io/blogs</title>
+    <!--
+      GitHub Pages SPA fallback.
+      When GitHub Pages returns 404 for a deep link (e.g. /blogs/rcnn/),
+      this page saves the full URL to sessionStorage then redirects to
+      index.html. The script in index.html reads it back and restores the path
+      via history.replaceState so React Router picks up the correct route.
+    -->
+    <script>
+      sessionStorage.setItem('ghpages_redirect', window.location.href);
+      window.location.replace(
+        window.location.origin + '%PUBLIC_URL%/'
+      );
+    </script>
+  </head>
+  <body></body>
+</html>
