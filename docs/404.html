@@ -12,9 +12,9 @@
     -->
     <script>
       sessionStorage.setItem('ghpages_redirect', window.location.href);
-      window.location.replace(
-        window.location.origin + '%PUBLIC_URL%/'
-      );
+      var parts = window.location.pathname.split('/').filter(Boolean);
+      var repoBase = parts.length ? '/' + parts[0] : '';
+      window.location.replace(window.location.origin + repoBase + '/');
     </script>
   </head>
   <body></body>
